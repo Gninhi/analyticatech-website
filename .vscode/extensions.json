@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "rbbit.typescript-hero",
+    "ms-vscode.vscode-typescript-next",
+    "dsznajder.es7-react-js-snippets",
+    "PulkitGangwar.nextjs-snippets",
+    "React.React-dev-tools",
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss",
+    "clinyong.vscode-css-modules",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
+    "formulahendry.auto-rename-tag",
+    "wix.vscode-import-cost",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "usernamehw.errorlens",
+    "Gruntfuggly.todo-tree",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
