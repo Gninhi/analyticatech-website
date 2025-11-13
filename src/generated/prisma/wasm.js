@@ -164,6 +164,14 @@ exports.Prisma.ContactScalarFieldEnum = {
   updatedAt: 'updatedAt'
 };
 
+exports.Prisma.NewsletterScalarFieldEnum = {
+  id: 'id',
+  email: 'email',
+  status: 'status',
+  createdAt: 'createdAt',
+  updatedAt: 'updatedAt'
+};
+
 exports.Prisma.SortOrder = {
   asc: 'asc',
   desc: 'desc'
@@ -179,7 +187,8 @@ exports.Prisma.ModelName = {
   User: 'User',
   Service: 'Service',
   Realisation: 'Realisation',
-  Contact: 'Contact'
+  Contact: 'Contact',
+  Newsletter: 'Newsletter'
 };
 
 /**
